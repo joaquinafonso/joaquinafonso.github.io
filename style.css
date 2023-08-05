@@ -1,0 +1,50 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-size: 80px;
+    letter-spacing: 10px;
+    justify-content: center;
+    color: rgba(174, 0, 255, 0.664);
+}
+
+#descripcion {
+    font-size: 20px;
+    color: rgba(174, 0, 255, 0.664);
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: justify;
+    background-color: #ddd2df;
+}
+
+table {
+    border: rgba(174, 0, 255, 0.664) 5px solid;
+}
+
+td {
+    margin: 5px;
+    padding: 5px;
+  }
+
+a:link, a:visited {
+    color: rgba(174, 0, 255, 0.664);
+}  
+
+#epr, #hyc, #edu, #Pso, #cont {
+    color:rgba(174, 0, 255, 0.664);
+    letter-spacing: 2px;
+}
+
+img {
+    width: 150px;
+    float: left;
+    margin-right: 10px;
+}
+
+.titulotabla, .habilidades {
+    color:rgba(174, 0, 255, 0.664);
+}
